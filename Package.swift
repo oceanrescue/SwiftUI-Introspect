@@ -6,7 +6,7 @@ let package = Package(
     name: "Introspect",
     platforms: [
         .iOS(.v13),
-        .macOS(.v13),
+        .macOS(.v12),
         .tvOS(.v13),
     ],
     products: [
